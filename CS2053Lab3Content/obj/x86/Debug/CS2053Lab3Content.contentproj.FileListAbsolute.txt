@@ -1,0 +1,4 @@
+C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\labuser\Desktop\CS2053Lab3\CS2053Lab3\CS2053Lab3Content\obj\x86\Debug\CS2053Lab3Content.contentprojResolveAssemblyReference.cache
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3Content\obj\x86\Debug\CS2053Lab3Content.contentprojResolveAssemblyReference.cache
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3Content\obj\x86\Debug\CS2053Lab3Content.contentprojResolveAssemblyReference.cache

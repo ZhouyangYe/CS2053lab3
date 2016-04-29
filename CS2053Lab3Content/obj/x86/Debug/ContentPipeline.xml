@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>chomp.png</Source>
+      <Name>chomp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\chomp.xnb</Output>
+      <Time>2013-01-28T20:43:40.3464928-04:00</Time>
+    </Item>
+    <Item>
+      <Source>redball.png</Source>
+      <Name>redball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\redball.xnb</Output>
+      <Time>2013-01-28T20:43:51.8591513-04:00</Time>
+    </Item>
+    <Item>
+      <Source>whiteball.png</Source>
+      <Name>whiteball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\whiteball.xnb</Output>
+      <Time>2013-01-28T20:44:08.0420769-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-01-28T20:44:17.4036123-04:00</Time>
+    </Item>
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2013-01-28T20:51:39.8989216-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-11T23:54:59.6517007-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

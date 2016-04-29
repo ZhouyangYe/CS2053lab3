@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>redball.png</Source>
+      <Name>redball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\redball.xnb</Output>
+      <Time>2014-02-18T17:34:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>whiteball.png</Source>
+      <Name>whiteball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\whiteball.xnb</Output>
+      <Time>2014-02-18T17:34:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2014-02-18T17:34:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>background5.jpg</Source>
+      <Name>background5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\background5.xnb</Output>
+      <Time>2014-02-18T21:13:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Drillexplode.png</Source>
+      <Name>Drillexplode</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\Drillexplode.xnb</Output>
+      <Time>2014-02-18T23:25:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2014-02-21T16:33:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>playerfighter.png</Source>
+      <Name>playerfighter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\playerfighter.xnb</Output>
+      <Time>2014-03-18T00:10:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>starfield.dds</Source>
+      <Name>starfield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\starfield.xnb</Output>
+      <Time>2014-03-18T00:31:06-03:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyfighter.jpg</Source>
+      <Name>enemyfighter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\enemyfighter.xnb</Output>
+      <Time>2014-03-18T01:00:20-03:00</Time>
+    </Item>
+    <Item>
+      <Source>zerotype.png</Source>
+      <Name>zerotype</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\zerotype.xnb</Output>
+      <Time>2014-03-19T00:37:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>USfighter.png</Source>
+      <Name>USfighter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\USfighter.xnb</Output>
+      <Time>2014-03-19T00:37:46-03:00</Time>
+    </Item>
+    <Item>
+      <Source>JapBomber.png</Source>
+      <Name>JapBomber</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\JapBomber.xnb</Output>
+      <Time>2014-03-19T00:58:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>aircraftcarrier.png</Source>
+      <Name>aircraftcarrier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\aircraftcarrier.xnb</Output>
+      <Time>2014-03-25T19:04:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>battleship.png</Source>
+      <Name>battleship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\battleship.xnb</Output>
+      <Time>2014-03-25T19:04:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>destroyer1.png</Source>
+      <Name>destroyer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\destroyer1.xnb</Output>
+      <Time>2014-03-25T19:05:06-03:00</Time>
+    </Item>
+    <Item>
+      <Source>destroyer2.png</Source>
+      <Name>destroyer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\destroyer2.xnb</Output>
+      <Time>2014-03-25T19:05:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>destroyer3.png</Source>
+      <Name>destroyer3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\destroyer3.xnb</Output>
+      <Time>2014-03-25T19:05:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>torpedo.png</Source>
+      <Name>torpedo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\torpedo.xnb</Output>
+      <Time>2014-03-25T22:03:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>aircraftcarrierhit.png</Source>
+      <Name>aircraftcarrierhit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\aircraftcarrierhit.xnb</Output>
+      <Time>2014-04-02T20:54:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>battleshiphit.png</Source>
+      <Name>battleshiphit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\battleshiphit.xnb</Output>
+      <Time>2014-04-02T20:54:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>destroyer1hit.png</Source>
+      <Name>destroyer1hit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\destroyer1hit.xnb</Output>
+      <Time>2014-04-02T20:54:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>JapBomberhit.png</Source>
+      <Name>JapBomberhit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\JapBomberhit.xnb</Output>
+      <Time>2014-04-02T20:54:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2014-03-28T21:38:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2014-04-02T01:46:06-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D62F2B3F-6490-4296-B071-68D7E07DA488}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3Content\</RootDirectory>
+      <LoggerRootDirectory>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-01-13T20:30:29.3780363-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

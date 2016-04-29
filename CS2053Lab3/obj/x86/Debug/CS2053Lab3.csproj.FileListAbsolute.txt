@@ -1,0 +1,65 @@
+C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\chomp.xnb
+C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\redball.xnb
+C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\whiteball.xnb
+C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\CS2053Lab3.exe
+C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\CS2053Lab3.pdb
+C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\obj\x86\Debug\CS2053Lab3.exe
+C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\obj\x86\Debug\CS2053Lab3.pdb
+C:\Users\wdu\Documents\CS2053\XNAProjects\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\background.xnb
+C:\Users\labuser\Desktop\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\chomp.xnb
+C:\Users\labuser\Desktop\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\redball.xnb
+C:\Users\labuser\Desktop\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\whiteball.xnb
+C:\Users\labuser\Desktop\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\background.xnb
+C:\Users\labuser\Desktop\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\labuser\Desktop\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\CS2053Lab3.exe
+C:\Users\labuser\Desktop\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\CS2053Lab3.pdb
+C:\Users\labuser\Desktop\CS2053Lab3\CS2053Lab3\CS2053Lab3\obj\x86\Debug\CS2053Lab3.csprojResolveAssemblyReference.cache
+C:\Users\labuser\Desktop\CS2053Lab3\CS2053Lab3\CS2053Lab3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\labuser\Desktop\CS2053Lab3\CS2053Lab3\CS2053Lab3\obj\x86\Debug\CS2053Lab3.exe
+C:\Users\labuser\Desktop\CS2053Lab3\CS2053Lab3\CS2053Lab3\obj\x86\Debug\CS2053Lab3.pdb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\chomp.xnb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\redball.xnb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\whiteball.xnb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\background.xnb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\SpriteFont1.xnb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\CS2053Lab3.exe
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\CS2053Lab3.pdb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\obj\x86\Debug\CS2053Lab3.csprojResolveAssemblyReference.cache
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\obj\x86\Debug\CS2053Lab3.exe
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\obj\x86\Debug\CS2053Lab3.pdb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\2241Spaceship.xnb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\Spaceship.xnb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\background5.xnb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\egg.xnb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\Drillexplode.xnb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\SpriteFont2.xnb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\explosion.xnb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\CS2053Lab3.exe.config
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\starfield.xnb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\playerfighter.xnb
+H:\CS2053\lab3\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\enemyfighter.xnb
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\redball.xnb
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\whiteball.xnb
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\background.xnb
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\background5.xnb
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\Drillexplode.xnb
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\explosion.xnb
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\playerfighter.xnb
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\starfield.xnb
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\enemyfighter.xnb
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\zerotype.xnb
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\USfighter.xnb
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\SpriteFont1.xnb
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\SpriteFont2.xnb
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\CS2053Lab3.exe.config
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\CS2053Lab3.exe
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\CS2053Lab3.pdb
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\obj\x86\Debug\CS2053Lab3.csprojResolveAssemblyReference.cache
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\obj\x86\Debug\CS2053Lab3.exe
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\obj\x86\Debug\CS2053Lab3.pdb
+H:\CS2053\project\project folder\CS2053Lab3\CS2053Lab3\CS2053Lab3\bin\x86\Debug\Content\JapBomber.xnb

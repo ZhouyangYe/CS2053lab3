@@ -1,0 +1,3 @@
+H:\CS2053\project\project folder\CS2053Project\CS2053Lab3\CS2053Lab3Content\obj\x86\Debug\CS2053ProjectContent.contentprojResolveAssemblyReference.cache
+E:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3Content\obj\x86\Debug\CS2053ProjectContent.contentprojResolveAssemblyReference.cache
+D:\New folder\CS2053Project\CS2053Lab3\CS2053Lab3Content\obj\x86\Debug\CS2053ProjectContent.contentprojResolveAssemblyReference.cache
